@@ -1,0 +1,9 @@
+{
+  "name": "@yarn-workspace/server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@yarn-workspace/common": "1.0.0"
+  },
+  "license": "MIT"
+}
